@@ -1,0 +1,3 @@
+# pad x y w h direction
+0 25 5 5 N
+100 25 5 5 S
